@@ -2,6 +2,10 @@
 
 A Bash-based security log analysis tool that parses Linux system logs to detect brute-force attacks, privilege escalation, suspicious patterns, and anomalous activity. Includes a live monitoring mode.
 
+## Demo
+
+![Demo Output](demo.svg)
+
 ## Features
 
 | Module | What It Detects |
